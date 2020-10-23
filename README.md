@@ -27,14 +27,14 @@ Também escrevo no meu blog: [Eletro Hacking](https://malkonf.github.io/blog/blo
 
 ## Onde me encontrar?
 
-Pode me encontrar em: <br/>[![Linkedin][3.0][3] ou [![Twitter][1.][1] e também no meu [Meu Website] (https://malkonf.github.io/)
+Pode me encontrar em: [![Linkedin] [3.0] [3] ou [![Twitter] [1.1] [1] e também no meu [Meu Website](https://malkonf.github.io/)
 
-## :folded_hands:
+## :star: :octocat: :star:
 
 <!-- icons -->
 
-[1.1]: https://raw.githubusercontent.com/MalkonF/MalkonF/master/twitter.png
-[3.0]: https://raw.githubusercontent.com/MalkonF/MalkonF/master/linkedin.png
+[1.1]: https://github.com/MalkonF/MalkonF/blob/main/twitter.png
+[3.0]: https://github.com/MalkonF/MalkonF/blob/main/linkedin.png
 
 <!-- redes sociais -->
 
