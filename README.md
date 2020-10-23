@@ -24,7 +24,7 @@ Também escrevo no meu blog: [Eletro Hacking](https://malkonf.github.io/blog/blo
 <a href="https://github.com/MalkonF/MalkonF">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=MalkonF&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Malkon GitHub Stats" />
 </a>
-[![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
+
 ## Onde me encontrar?
 
 Pode me encontrar em: [![Linkedin][3.0]][3] ou [![Twitter][1.1]][1] e também no meu [Meu Website](https://malkonf.github.io/)
