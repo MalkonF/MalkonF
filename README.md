@@ -27,8 +27,17 @@ Também escrevo no meu blog: [Eletro Hacking](https://malkonf.github.io/blog/blo
 
 ## Onde me encontrar?
 
-Pode me encontrar em: [Linkedin] (https://www.linkedin.com/in/malkon-faria-1843b81a7/)<br/>
-[Meu Website] (https://malkonf.github.io/) <br/>
-[Twitter] (https://twitter.com/RapazComum6)
+Pode me encontrar em: <br/>[![Linkedin][3.0][3] ou [![Twitter][1.][1] e também no meu [Meu Website] (https://malkonf.github.io/)
 
-:folded_hands:
+## :folded_hands:
+
+<!-- icons -->
+
+[1.1]: https://raw.githubusercontent.com/MalkonF/MalkonF/master/twitter.png
+[3.0]: https://raw.githubusercontent.com/MalkonF/MalkonF/master/linkedin.png
+
+<!-- redes sociais -->
+
+[1]: https://twitter.com/RapazComum6
+[2]: https://github.com/MalkonF
+[3]: https://www.linkedin.com/in/malkon-faria-1843b81a7/
