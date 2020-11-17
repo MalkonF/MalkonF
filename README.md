@@ -5,7 +5,19 @@ Meu nome é Malkon Faria, sou desenvolvedor e DevOps em busca da primeira oportu
 ## :hammer_and_wrench: Tecnologias
 
 Tenho vivência de mais de 10 anos em ambientes ![](https://img.shields.io/badge/OS-Linux-sucess) mais especificamente usando ![](https://img.shields.io/badge/OS-Debian-FF1493) e ![](https://img.shields.io/badge/OS-CentOS-%2300008B). <br/>
-Desenvolvo usando ![](https://img.shields.io/badge/Code-Java-%238B0000), ![](https://img.shields.io/badge/Code-HTML-%23FF4500),![](https://img.shields.io/badge/Code-CSS-blue), ![](https://img.shields.io/badge/Code-JS-%23FFD700),![](https://img.shields.io/badge/Framework-Spring-%2332CD32), ![](https://img.shields.io/badge/Framework-Bootstrap-%238A2BE2), ![](https://img.shields.io/badge/Framework-Angular-%23FF0000) e ![](https://img.shields.io/badge/Framework-Ionic-blue).
+Sou desenvolvedor backend com conhecimentos de ![](https://img.shields.io/badge/Code-Java-%238B0000), ![](https://img.shields.io/badge/DB-MySql-%230000CD) e ![](https://img.shields.io/badge/Framework-Spring-%2332CD32). Também tenho noção da parte de front-end das seguintes tecnologias: ![](https://img.shields.io/badge/Code-HTML-%23FF4500),![](https://img.shields.io/badge/Code-CSS-blue), ![](https://img.shields.io/badge/Code-JS-%23FFD700), ![](https://img.shields.io/badge/Framework-Bootstrap-%238A2BE2), ![](https://img.shields.io/badge/Framework-Angular-%23FF0000) e ![](https://img.shields.io/badge/Framework-Ionic-blue). <br/>
+Tenho ciência que para aprimorar meu código, o conhecimento da linguagem por si só não é o bastante, por isso sempre estou estudando conceitos como: <br/>
+
+- princípios SOLID
+- Design Patterns
+- paradigmas de programação
+- JUnit
+- DDD (Driven design development);
+- conhecimentos gerais sobre DevOps e infraestrutura;
+- APIs RESTful
+- Web Service
+- SOAP
+- bancos NOSQL;
 
 ## Comunidade
 
