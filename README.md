@@ -1,6 +1,6 @@
 # Olá pessoal :thumbsup:
 
-Meu nome é Malkon Faria, sou desenvolvedor e DevOps em busca da primeira oportunidade.
+Meu nome é Malkon Faria, sou desenvolvedor back-end júnior em busca da primeira oportunidade.
 
 ## :hammer_and_wrench: Tecnologias
 
