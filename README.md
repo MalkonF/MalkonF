@@ -1,23 +1,21 @@
 # Olá pessoal :thumbsup:
 
-Meu nome é Malkon Faria, sou desenvolvedor back-end júnior em busca da primeira oportunidade.
+Meu nome é Malkon Faria, sou desenvolvedor e atualmente estou cursando o 2º período de Análise e Desenvolvimento de Sistemas. Tenho trabalhado em vários projetos que podem ser conferidos no meu repositório. Sinta-se livre para entrar em contato comigo se você precisa de um desenvolvedor.
 
 ## :hammer_and_wrench: Tecnologias
 
 Tenho vivência de mais de 10 anos em ambientes ![](https://img.shields.io/badge/OS-Linux-sucess) mais especificamente usando ![](https://img.shields.io/badge/OS-Debian-FF1493) e ![](https://img.shields.io/badge/OS-CentOS-%2300008B). <br/>
-Sou desenvolvedor backend com conhecimentos de ![](https://img.shields.io/badge/Code-Java-%238B0000), ![](https://img.shields.io/badge/DB-MySql-%230000CD) e ![](https://img.shields.io/badge/Framework-Spring-%2332CD32). Também tenho noção da parte de front-end das seguintes tecnologias: ![](https://img.shields.io/badge/Code-HTML-%23FF4500),![](https://img.shields.io/badge/Code-CSS-blue), ![](https://img.shields.io/badge/Code-JS-%23FFD700), ![](https://img.shields.io/badge/Framework-Bootstrap-%238A2BE2), ![](https://img.shields.io/badge/Framework-Angular-%23FF0000) e ![](https://img.shields.io/badge/Framework-Ionic-blue). <br/>
+Desenvolvo back-end usando ![](https://img.shields.io/badge/Code-Java-%238B0000), uso ![](https://img.shields.io/badge/Framework-Hibernate-yellowgreen) para fazer mapeamento objeto-relacional e como banco de dados ![](https://img.shields.io/badge/DB-MySql-%230000CD). <br/> Para fazer Web Services SOAP ou RESTful uso ![](https://img.shields.io/badge/Framework-Spring-%2332CD32). <br/> Para construir o front-end uso ![](https://img.shields.io/badge/Code-HTML-%23FF4500),![](https://img.shields.io/badge/Code-CSS-blue), ![](https://img.shields.io/badge/Code-TypeScript-blue), ![](https://img.shields.io/badge/Framework-Bootstrap-%238A2BE2), ![](https://img.shields.io/badge/UI-Angular%20Material-blue), ![](https://img.shields.io/badge/Framework-Angular-%23FF0000). <br/> Também uso o ![](https://img.shields.io/badge/Framework-Ionic-blue) para fazer a versão mobile da aplicação. <br/>
+Sempre tento escrever meus códigos levando em consideração os princípios do ![](https://img.shields.io/badge/Design-S.O.L.I.D-RED) para facilitar a manutenção e a compreensão do mesmo.
+Utilizo também no meu dia a dia a metodologia de desenvolvimento orientado por testes ![](https://img.shields.io/badge/Testes-TDD-blueviolet) e para escrever os testes uso o framework ![](https://img.shields.io/badge/Testes-JUnit-red).<br/>
 Tenho ciência que para aprimorar meu código, o conhecimento da linguagem por si só não é o bastante, por isso sempre estou estudando conceitos como: <br/>
 
-- princípios SOLID
-- Design Patterns
-- paradigmas de programação
-- JUnit
-- DDD (Driven design development);
+- Design Patterns;
+- paradigmas de programação;
 - conhecimentos gerais sobre DevOps e infraestrutura;
-- APIs RESTful
-- Web Service
-- SOAP
 - bancos NOSQL;
+- Docker
+- AWS
 
 ## Comunidade
 
